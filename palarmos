@@ -1,5 +1,7 @@
-index.html
-menu.html
-styles.css
-script.js
-README.txt
+palermos-pizzeria
+│
+├── index.html 
+├── menu.html
+├── styles.css
+├── script.js
+└── README.txt
